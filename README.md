@@ -30,39 +30,65 @@ AI-model-/
 
 The project was successfully run using the following environment:
 
-Python: 3.15.2 (Anaconda)
+- **Python:** 3.15.2 (Anaconda)
+- **NumPy:** 2.5.4
+- **Pandas:** 3.1.0
+- **Matplotlib:** 3.11.2
+- **Seaborn:** 0.13.2
+- **Scikit-learn:** 1.9.1
+- **IPyKernel:** 7.4.0
 
-NumPy: 2.5.4
+The required package versions are specified in `requirements.txt` to help maintain a consistent environment across team members.
 
-Pandas: 3.1.0
+### Prerequisites
 
-Matplotlib: 3.11.2
+- Python 3.15.2
+- Visual Studio Code
+- Python extension for VS Code
+- Jupyter extension for VS Code
 
-Seaborn: 0.13.2
-
-Scikit-learn: 1.9.1
-
-IPyKernel: 7.4.0
-
-The required package versions are specified in requirements.txt to help maintain a consistent environment across team members.
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Group-69-ai-proj/AI-model-.git
 cd AI-model-
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-pip install -r requirements.txt
 ```
 
-## How to run
+### 2. Create and Activate a Virtual Environment
 
-Run the following commands from the `AI-model-` project folder after activating the virtual environment:
+Create a virtual environment:
 
 ```bash
-jupyter notebook code.ipynb
+python -m venv .venv
 ```
 
-Open `code.ipynb` and select **Kernel → Restart Kernel and Run All Cells**. The notebook performs the data analysis, trains and evaluates the Logistic Regression model, and displays the generated graphs and evaluation results. Expected runtime is approximately 15 seconds.
+On Windows PowerShell, activate it with:
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+```
+
+On macOS or Linux, activate it with:
+
+```bash
+source .venv/bin/activate
+```
+
+### 3. Install Dependencies
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+## How to Run
+
+1. Open the `AI-model-` project folder in Visual Studio Code.
+2. Open `code.ipynb`.
+3. Click **Select Kernel** in the top-right corner of the notebook.
+4. Select the Python 3.15.2 environment in which you installed the project dependencies (the `.venv` environment, if you created it using the steps above).
+5. Select **Run All** to execute the notebook from beginning to end. You can also use **Restart Kernel and Run All Cells** to run it from a fresh kernel.
+
+The notebook performs data analysis, trains and evaluates the Logistic Regression model, and displays the generated graphs and evaluation results.
 
 ## Links
 
