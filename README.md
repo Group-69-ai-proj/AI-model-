@@ -2,7 +2,7 @@
 
 Predicts whether a higher-education student is likely to **Graduate**, **Drop out**, or remain **Enrolled** using a Logistic Regression model. The project uses student demographic details, tuition-fee status, scholarship information, and academic results. It is built with pandas, NumPy, Matplotlib, Seaborn, and scikit-learn.
 
-`AI101 Mini-Project` `Team 69` `Python 3.11 / 3.12`
+`AI101 Mini-Project` `Team 69` `Python 3.14(and above)`
 
 ## Team and roles
 
@@ -28,7 +28,23 @@ AI-model-/
 
 ## Setup
 
-The project was tested with **Python 3.11 and 3.12** on Ubuntu Linux. Python 3.13 or newer is not supported by the pinned library versions.
+The project was successfully run using the following environment:
+
+Python: 3.15.2 (Anaconda)
+
+NumPy: 2.5.4
+
+Pandas: 3.1.0
+
+Matplotlib: 3.11.2
+
+Seaborn: 0.13.2
+
+Scikit-learn: 1.9.1
+
+IPyKernel: 7.4.0
+
+The required package versions are specified in requirements.txt to help maintain a consistent environment across team members.
 
 ```bash
 git clone https://github.com/Group-69-ai-proj/AI-model-.git
