@@ -1,6 +1,7 @@
-numpy==1.26.4
-pandas==2.2.2
-matplotlib==3.8.4
+python==3.15.2 | packaged by Anaconda, Inc. | [MSC v.1942 64 bit (AMD64)]
+numpy==2.5.4
+pandas==3.1.0
+matplotlib==3.11.2
 seaborn==0.13.2
-scikit-learn==1.4.2
-ipykernel==6.29.4
+scikit-learn==1.9.1
+ipykernel==7.4.0
