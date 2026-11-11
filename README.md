@@ -2,7 +2,7 @@
 
 Predicts whether a higher-education student is likely to **Graduate**, **Drop out**, or remain **Enrolled** using a Logistic Regression model. The project uses student demographic details, tuition-fee status, scholarship information, and academic results. It is built with pandas, NumPy, Matplotlib, Seaborn, and scikit-learn.
 
-`AI101 Mini-Project` `Team 69` `Python 3.14(and above)`
+`AI101 Mini-Project` `Team 69` `Python 3.15.2`
 
 ## Team and roles
 
