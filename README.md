@@ -22,7 +22,7 @@ AI-model-/
 ├── code.ipynb                                   # Data analysis, preprocessing, model and evaluation
 ├── Predict dropout rate (csvfile dataset).csv   # Student dataset
 ├── requirements.txt                             # Required Python libraries
-├── docs/                                        # Supporting project files
+├── AI101_GroupProject_69.pdf                    # Presentation on Group Project
 └── README.md
 ```
 
