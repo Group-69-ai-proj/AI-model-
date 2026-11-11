@@ -60,4 +60,4 @@ Open `code.ipynb` and select **Kernel → Restart Kernel and Run All Cells**. Th
 - **Claude:** Used to review the project notebook and suggest improvements. Claude suggested the correlation-heatmap cell and some seaborn related graphs, which were added and tested by the team. Claude also prepared the first draft of this README.
 - **Code creation:** No AI tool was used to generate the project's code apart from the correlation-heatmap and some seaborn graphs which were suggested by Claude. All remaining coding was done manually by team members. The team added, reviewed, understood and tested the correlation-heatmap cell.
 - **Verification:** The team ran and tested the project code. AI was not used to generate or modify the dataset or the reported results; all results come from running `code.ipynb`.
-Slides (5): [View Presentation](AI101_GroupProject%20_69.pdf) · Video (mp4): `https://drive.google.com/file/d/1GiX1vjCV1aNfmAXPQkHh7MFtDorjV_dc/view?usp=drivesdk`# AI-model-
+Slides (5): [View Presentation](AI101_GroupProject%20_69.pdf) · Video (mp4): [Watch project video](https://drive.google.com/file/d/1GiX1vjCV1aNfmAXPQkHh7MFtDorjV_dc/view?usp=drivesdk)# AI-model-
