@@ -50,7 +50,7 @@ Open `code.ipynb` and select **Kernel → Restart Kernel and Run All Cells**. Th
 
 ## Links
 
-- **Presentation (PPT/PDF):** [Open presentation](PASTE_PPT_LINK_HERE)
+- **Presentation (PPT/PDF):** [Open presentation](AI101_GroupProject_69.pdf)
 - **Project video:** [Watch project video](https://drive.google.com/file/d/1GiX1vjCV1aNfmAXPQkHh7MFtDorjV_dc/view?usp=drivesdk)
 
 ## AI-use disclosure
